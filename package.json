@@ -1,0 +1,22 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victoire44/Constructor-Word-Guess.git"
+  },
+  "author": "victoire baron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victoire44/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/Victoire44/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.4.1"
+  }
+}
